@@ -15,7 +15,8 @@ function calculateLuckyNumber() {
       dateSum += +birthDateArr[i];
     }
     if (dateSum % luckyNumber.value == 0) {
-      message.innerText = luckyNumber.value + " " + "is lucky for you";
+      message.innerText =
+        "Hurray" + " " + luckyNumber.value + " " + "is lucky for you";
     } else {
       message.innerText = luckyNumber.value + " " + "is not that lucky";
     }
