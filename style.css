@@ -1,10 +1,9 @@
-@import url("https://fonts.googleapis.com/css2?family=Lobster&family=Pacifico&display=swap");
 * {
   margin: 0;
   padding: 0;
 }
 body {
-  font-family: "Lobster", cursive;
+  font-family: "Courier New", Courier, monospace;
   background-color: #333;
 }
 
@@ -30,7 +29,6 @@ input {
   padding: 0.7rem 1rem;
   width: 20%;
   border-radius: 10px;
-  border: none;
 }
 
 button {
@@ -57,12 +55,10 @@ span {
   padding-top: 3rem;
   color: #00ff00;
   font-size: small;
-  font-family: "Courier New", Courier, monospace;
 }
 footer {
   position: fixed;
   bottom: 20px;
-  font-family: "Courier New", Courier, monospace;
 }
 footer p a {
   cursor: pointer;
