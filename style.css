@@ -47,10 +47,7 @@ button:hover {
 p {
   color: white;
 }
-a {
-  text-decoration: none;
-  color: white;
-}
+
 span {
   padding-top: 3rem;
   color: #00ff00;
@@ -62,6 +59,8 @@ footer {
 }
 footer p a {
   cursor: pointer;
+  text-decoration: none;
+  color: white;
 }
 footer p a:hover {
   color: #00ff00;
