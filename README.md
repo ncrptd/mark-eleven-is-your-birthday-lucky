@@ -6,7 +6,7 @@ This app checks whether your birthday is lucky or not but calculating if sum of 
 
 * Select your Date of birth
 * Enter you lucky number
-* Click on Check Number
+* Click on Check Number Button
 * Output will be shown below the Check Number Button 
 
 ## Programming Language:
